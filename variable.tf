@@ -38,7 +38,7 @@ variable unique_id {
 
 variable end_points {
   description = "Sets the endpoints for the resources provisioned. Can be `public` or `private`"
-  default     = "private"
+  default     = "public"
 }
 
 ##############################################################################
@@ -50,7 +50,7 @@ variable end_points {
 
 variable logging_plan {
   description = "service plan for LogDNA, Activity Tracker."
-  default     = "7-day"
+  default     = "14-day"
 }
 
 ##############################################################################
