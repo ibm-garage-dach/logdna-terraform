@@ -38,7 +38,7 @@ variable unique_id {
 
 variable end_points {
   description = "Sets the endpoints for the resources provisioned. Can be `public` or `private`"
-  default     = "private"
+  default     = "public"
 }
 
 ##############################################################################
