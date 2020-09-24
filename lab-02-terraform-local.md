@@ -3,7 +3,7 @@
 ## Create a LogDNA instance through Terraform
 1. Clone https://github.com/ibm-garage-dach/logdna-terraform
 2. Update the default value of those variables in `variables.tf`
-* ibmcloud_api_key - use the API key you have generated earlier in the UI or use `ibmcloud iam api-key-create 'your initials'-TerraformKey -d "API Key for Terraform" --file terraform_key.json`
+* ibmcloud_api_key - use the API key you have generated earlier in the UI or use `ibmcloud iam api-key-create 'your initials'-TerraformKey -d "API Key for Terraform" --file terraform_key.json` - keep this API key, we will need it later again
 * resource_group - use the bootcamp resource group - hint: `ibmcloud iam resource groups`
 * unique_id - use "'your initials'-dev", e.g. "gw-dev"
 
