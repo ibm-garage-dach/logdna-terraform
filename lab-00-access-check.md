@@ -10,5 +10,5 @@ Pre-Work
 * Creation of IBM Cloud API Key - https://cloud.ibm.com/docs/account?topic=account-userapikey#create_user_key
 
 This should work
-* ibmcloud login -sso
-* terraform version
+* `ibmcloud login -sso`
+* `terraform version`
