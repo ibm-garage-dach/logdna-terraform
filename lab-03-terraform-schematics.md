@@ -1,4 +1,4 @@
-# Lab 3: Terraform - Schematics Environment
+# Lab 3: Terraform - IBM Schematics
 
 ## Create a Schematics Workspace
 
