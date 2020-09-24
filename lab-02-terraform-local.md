@@ -7,6 +7,6 @@
 * unique_id
 
 
-3. run `terraform init` to initialize the environment
-4. run `terraform plan` to create the provisioning plan
-5. run `terraform apply` to create the LogDNA service
+3. Initialize your Terraform environment
+4. Create your Terraform Provisioning plan
+5. Apply your Terraform plan
