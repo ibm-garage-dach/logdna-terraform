@@ -8,5 +8,7 @@
 
 
 3. Initialize your Terraform environment
-4. Create your Terraform Provisioning plan
+4. Create your Terraform execution plan, examine and validate it 
 5. Apply your Terraform plan
+6. Validate that the LogDNA service has been created - hint: `ibmcloud resource service-instances | grep 'your initials'`
+7. Destroy the LogDNA service
