@@ -18,3 +18,4 @@
 ## Examine IBM Cloud Terraform Plugin examples
 1. Clone https://github.com/IBM-Cloud/terraform-provider-ibm
 2. Explore the `/examples` directory
+3. Take a look at https://cloud.ibm.com/docs/terraform?topic=terraform-index-of-terraform-resources-and-data-sources
