@@ -11,4 +11,4 @@ Pre-Work
 
 This should work
 * `ibmcloud login -sso`
-* `terraform version`
+* `terraform version` (should be latest 0.12.x as in the instructions)
